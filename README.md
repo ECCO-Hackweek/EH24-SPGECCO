@@ -46,10 +46,10 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
+| Wenrui Jiang | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
+| Margaret A Murakami | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
+| Prajvala Kurtakoti | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
+| Ashfaq Ahmed | On the technical side, I learn to use GitHub, EMU, some fundamental Python codings, and run codes in the cloud. On the theoretical side, I learned about the adjoint methods and their application in atmospheric and climate science. | I am familiar with the ECCOv4r4 dataset | Team Member  |
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
 
