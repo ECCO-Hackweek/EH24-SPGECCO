@@ -30,9 +30,15 @@ This template provides the following suggested organizaiton structure for the pr
 
 # Project or Team Name
 
+SPGECO
+
 ## Project Title and Introduction
 
-Provide a brief introduction describing the proposed work. Be sure to also decribe what skills team members will get to learn and practice as part of this project.
+Towards understanding the heat content in the subpolar gyre and its influences using EMU
+
+The subpolar gyre is a crucial oceanic circulation system located in the high-latitude regions of the North Atlantic and North Pacific Oceans. Characterized by a counterclockwise flow in the Northern Hemisphere, the subpolar gyre plays a significant role in regulating climate and marine ecosystems. It helps facilitate the exchange of heat and nutrients between polar and subtropical waters, contributing to the global thermohaline circulation. This gyre is particularly important for its influence on the distribution of sea ice, carbon sequestration, and nutrient cycling, which support a variety of marine species, from phytoplankton to large fish populations. 
+
+In this one-week ECCO hackathon project, we put our effort into understanding the heat content in the subpolar gyre and its influences using the EMU tool that we have learned. 
 
 ### Collaborators
 
