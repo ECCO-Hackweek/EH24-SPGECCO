@@ -44,3 +44,5 @@ We calculated the heat budget of the SPG, and found that the Gyre is warming, bu
 We made some connection between heat transport and ocean at various latitude. 
 
 Using adjoint method, we were able to identify potentially interesting dynamical mechanisms that controls the heat transport into SPG along NAC. 
+
+The results are summarized here: https://docs.google.com/presentation/d/1PANPpJ7jcb-SJnPyfcWyN0HdO5ZNO5j0GSRa1U-zB20/edit?usp=sharing
